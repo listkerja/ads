@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'https://shope.ee/Vbw0fOugl';
+        var origin = 'https://shope.ee/5zxPQbdDwh';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
